@@ -1,4 +1,4 @@
-# LLMCDSR
+# Fine-Tuning LLMs for Cross-Domain Sequential Recommendation: A Reproducibility Study of the LLMCDSR Framework
 This is the official implementation of the "Fine-Tuning LLMs for Cross-Domain Sequential Recommendation: A Reproducibility Study of the LLMCDSR Framework"
 
 ## Requirements
