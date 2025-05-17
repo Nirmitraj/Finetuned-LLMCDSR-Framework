@@ -1,0 +1,5 @@
+Below is an instruction that describes a task, paired with an input and several examples that provide further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In the Pet Supplies domain, there are various items that a user has purchased for their pets. Based on these, recommend some beauty or personal care products the user might be interested in. Some examples that demonstrate the input of pet product history and the output of recommended beauty items are given below. Do not simply select items from the examples.
+
